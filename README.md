@@ -1,75 +1,67 @@
-# 👋 Hello, I'm Sekh Affroddin
+# 👋 Hi, I'm Sekh Affroddin
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-informational?style=for-the-badge&logo=netlify&logoColor=white&color=0C71E0)](https://affroddin.netlify.app)
+[![Email](https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)](mailto:skaffroddin4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/skaffroddin?tab=repositories)
+
+---
 
 **🌍 Location:** Maheshtala, South 24 Parganas, West Bengal, India  
-**📞 Contact:** +91 8240617824 | [skaffroddin4@gmail.com](mailto:skaffroddin4@gmail.com)  
-**🌐 Portfolio:** [affroddin.netlify.app](https://affroddin.netlify.app)
+**📞 Contact:** +91 8240617824
 
 ---
 
-### 🚀 About Me
+### 🌟 About Me
+I'm a **Full Stack Developer** and **Security Engineer** skilled in creating robust, secure web applications. My expertise includes frontend development with **HTML, CSS, Bootstrap, and Tailwind CSS**, as well as backend work using **PHP and Laravel**. My goal is to build scalable, secure applications while continuously expanding my knowledge in **DevOps** and **cybersecurity**.
 
-I'm a **Full Stack Developer** and **Security Engineer** passionate about creating secure, scalable, and user-friendly web applications. With expertise in both frontend and backend development, I specialize in **PHP and Laravel** and have experience with popular frontend frameworks like **Bootstrap** and **Tailwind CSS**. Currently, I'm also diving deeper into **cybersecurity** and **DevOps** to broaden my skill set and deliver more robust applications.
+---
 
-### 🔧 Technical Skills
+### 🔧 My Toolbox
+#### **Frontend**
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
 
-**Frontend**  
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+#### **Backend**
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 
-**Backend**  
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+#### **Database**
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 
-**Database**  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+#### **Version Control**
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
 
-**Version Control**  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+#### **Software & Tools**
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
 
-**Software Tools**  
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat&logo=adobe-photoshop&logoColor=white)
-
-**Web Hosting & Deployment**  
+#### **Web Hosting & Deployment**
 cPanel, Bluehost, HostGator, DigitalOcean, GoDaddy, Namecheap, SSL Certificates, DNS Configurations
 
-**Cybersecurity**  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF5700.svg?style=flat&logo=burp-suite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-%23494B8C.svg?style=flat&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-%23175D8D.svg?style=flat&logo=metasploit&logoColor=white)
-
-**Agile/Scrum**  
-JIRA, Confluence
-
-**Team Collaboration**  
-Strong communication and teamwork skills
+#### **Cybersecurity & Testing**
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF5700.svg?style=flat-square&logo=burp-suite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%23494B8C.svg?style=flat-square&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%23175D8D.svg?style=flat-square&logo=metasploit&logoColor=white)
 
 ---
 
-### 📈 Professional Experience
-
-#### Freelance Web Designer & Computer Technician (2019 - Present)
-- Designed and developed responsive websites using **WordPress**, **Shopify**, **Wix**, and **Webflow**, with customizations via **Elementor** and **Divi** to meet client-specific needs.
-- Integrated eCommerce functionalities (WooCommerce, Shopify Stores) and applied **SEO techniques** (keyword research, on-page optimization) to improve site rankings and performance.
-- Offered comprehensive **website maintenance**, content updates, and technical support to enhance site security and user experience.
-- Diagnosed and resolved computer hardware and software issues, and provided troubleshooting and system upgrades for clients.
-- Managed eCommerce seller accounts on platforms like **Flipkart** and **Meesho**, handling listings and order management.
-
-**Key Skills in this Role**:
-   - **Website Platforms**: WordPress, Shopify, Wix, Webflow
-   - **E-commerce**: WooCommerce, Shopify, Flipkart, Meesho
-   - **SEO & Analytics**: Keyword research, Google Analytics
-   - **Technical Support**: Hardware repair, system upgrades
+### 🔐 Cybersecurity Knowledge
+I prioritize secure coding practices and am skilled at identifying and addressing vulnerabilities. My expertise includes:
+- **Core Competencies**: Network security, encryption, secure coding
+- **Vulnerability Testing**: Experience with **OWASP Top 10** vulnerabilities, including SQL Injection, XSS, CSRF, RCE
+- **Security Tools**: Proficient with Burp Suite, SQLmap, Dirbuster, Nmap, Nikto, and Metasploit
 
 ---
 
-### 📚 Education
+### 🎓 Education
 
 - **Bachelor of Computer Applications (BCA)** | MAKAUT - George College Of Management & Science | **CGPA: 8.56** | Graduation: June 2024
 - **Higher Secondary Education (12th Grade)** | WBCHSE | Sarangabad High School | 2017
@@ -77,29 +69,33 @@ Strong communication and teamwork skills
 
 ---
 
-### 🔐 Cybersecurity Knowledge
-- **Core Competencies**: Network security, encryption, secure coding practices
-- **Vulnerability Testing**: Experience with **OWASP Top 10** vulnerabilities, including SQL Injection, XSS, CSRF, RCE
-- **Security Tools**: Proficient with tools like Burp Suite, SQLmap, Dirbuster, Nmap, Nikto, Metasploit
-
----
-
 ### 🌱 Currently Learning
 
-- Advanced Laravel (Laravel 11)  
-- DevOps practices and CI/CD automation  
-- Further skills in ethical hacking and penetration testing  
+- **Laravel 11** - Deepening my expertise in the latest features
+- **DevOps Practices** - CI/CD, containerization, and automation
+- **Advanced Cybersecurity** - Exploring ethical hacking and penetration testing
 
 ---
 
 ### 📊 GitHub Stats
-![Sekh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)
+<div align="center">
+  
+  ![Sekh's GitHub stats](https://github-readme-stats.vercel.app/api?username=skaffroddin&show_icons=true&theme=radical&hide=issues,prs)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skaffroddin&layout=compact&theme=radical)
+
+</div>
 
 ---
 
-Feel free to explore my repositories and reach out if you're interested in collaboration or have any queries!
+### 🚀 Featured Projects
+Here are a few of the top projects I'm proud of:
+
+- [**Personal Portfolio**](https://github.com/skaffroddin/portfolio) - A fully responsive portfolio site built with HTML, CSS, and JavaScript.
+- [**Laravel eCommerce Site**](https://github.com/skaffroddin/laravel-ecommerce) - A robust eCommerce platform developed with Laravel, showcasing CRUD operations, secure authentication, and more.
+
+---
+
+Thank you for visiting my GitHub profile! Feel free to explore my repositories, and reach out if you're interested in collaborating.
 
 ---
 
