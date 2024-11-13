@@ -1,63 +1,63 @@
 # 👋 Hi, I'm Sekh Affroddin
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-informational?style=for-the-badge&logo=netlify&logoColor=white&color=0C71E0)](https://affroddin.netlify.app)
-[![Email](https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)](mailto:skaffroddin4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/skaffroddin?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0C71E0?style=for-the-badge&logo=netlify&logoColor=white)](https://affroddin.netlify.app)
+[![Email](https://img.shields.io/badge/Email-skaffroddin4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skaffroddin4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-skaffroddin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skaffroddin?tab=repositories)
 
 ---
 
-**🌍 Location:** Maheshtala, South 24 Parganas, West Bengal, India  
+**📍 Location:** Maheshtala, South 24 Parganas, West Bengal, India  
 **📞 Contact:** +91 8240617824
 
 ---
 
 ### 🌟 About Me
-I'm a **Full Stack Developer** and **Security Engineer** skilled in creating robust, secure web applications. My expertise includes frontend development with **HTML, CSS, Bootstrap, and Tailwind CSS**, as well as backend work using **PHP and Laravel**. My goal is to build scalable, secure applications while continuously expanding my knowledge in **DevOps** and **cybersecurity**.
+I'm a **Full Stack Developer** and **Security Engineer** specializing in web applications that are as secure as they are scalable. My expertise spans **frontend development** (HTML, CSS, Bootstrap, Tailwind CSS) and **backend systems** (PHP, Laravel). With a commitment to continuous learning, I’m expanding my knowledge in **DevOps** and **cybersecurity** to deliver comprehensive, top-tier applications.
 
 ---
 
-### 🔧 My Toolbox
+### 🛠️ My Toolbox
 #### **Frontend**
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
 #### **Backend**
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 #### **Database**
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 #### **Version Control**
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 #### **Software & Tools**
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 #### **Web Hosting & Deployment**
 cPanel, Bluehost, HostGator, DigitalOcean, GoDaddy, Namecheap, SSL Certificates, DNS Configurations
 
 #### **Cybersecurity & Testing**
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF5700.svg?style=flat-square&logo=burp-suite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-%23494B8C.svg?style=flat-square&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-%23175D8D.svg?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF5700?style=flat-square&logo=burp-suite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-494B8C?style=flat-square&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-175D8D?style=flat-square&logo=metasploit&logoColor=white)
 
 ---
 
 ### 🔐 Cybersecurity Knowledge
-I prioritize secure coding practices and am skilled at identifying and addressing vulnerabilities. My expertise includes:
-- **Core Competencies**: Network security, encryption, secure coding
-- **Vulnerability Testing**: Experience with **OWASP Top 10** vulnerabilities, including SQL Injection, XSS, CSRF, RCE
-- **Security Tools**: Proficient with Burp Suite, SQLmap, Dirbuster, Nmap, Nikto, and Metasploit
+My cybersecurity skills focus on both **secure coding practices** and **vulnerability identification**. Key areas of expertise include:
+- **Core Competencies**: Network security, encryption, and secure coding principles.
+- **Vulnerability Testing**: Familiarity with **OWASP Top 10** vulnerabilities like SQL Injection, XSS, CSRF, RCE.
+- **Security Tools**: Experienced with tools like Burp Suite, SQLmap, Dirbuster, Nmap, Nikto, and Metasploit.
 
 ---
 
@@ -71,9 +71,9 @@ I prioritize secure coding practices and am skilled at identifying and addressin
 
 ### 🌱 Currently Learning
 
-- **Laravel 11** - Deepening my expertise in the latest features
-- **DevOps Practices** - CI/CD, containerization, and automation
-- **Advanced Cybersecurity** - Exploring ethical hacking and penetration testing
+- **Laravel 11** - Mastering the latest features of this PHP framework.
+- **DevOps Practices** - Diving into CI/CD, containerization, and automation workflows.
+- **Advanced Cybersecurity** - Exploring deeper into ethical hacking and penetration testing.
 
 ---
 
@@ -88,14 +88,11 @@ I prioritize secure coding practices and am skilled at identifying and addressin
 ---
 
 ### 🚀 Featured Projects
-Here are a few of the top projects I'm proud of:
+Here are a few of my top projects:
 
-- [**Personal Portfolio**](https://github.com/skaffroddin/portfolio) - A fully responsive portfolio site built with HTML, CSS, and JavaScript.
-- [**Laravel eCommerce Site**](https://github.com/skaffroddin/laravel-ecommerce) - A robust eCommerce platform developed with Laravel, showcasing CRUD operations, secure authentication, and more.
+- [**Personal Portfolio**](https://github.com/skaffroddin/portfolio) - A responsive portfolio site built with HTML, CSS, and JavaScript.
+- [**Laravel eCommerce Platform**](https://github.com/skaffroddin/laravel-ecommerce) - A comprehensive eCommerce platform built with Laravel, showcasing CRUD operations, secure authentication, and more.
 
 ---
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories, and reach out if you're interested in collaborating.
-
----
-
