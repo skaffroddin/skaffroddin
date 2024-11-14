@@ -6,7 +6,7 @@
 
 ---
 
-**📍 Location:** Maheshtala, South 24 Parganas, West Bengal, India  
+**📍 Location:** Kolkata, India  
 **📞 Contact:** +91 8240617824
 
 ---
@@ -33,6 +33,7 @@ I'm a **Full Stack Developer** and **Security Engineer** specializing in web app
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FFCC00?style=flat-square&logo=linux&logoColor=black)
 
 ### 🌐 Web Hosting & Deployment
 ![cPanel](https://img.shields.io/badge/cPanel-1D2D50?style=flat-square&logo=cpanel&logoColor=white)
