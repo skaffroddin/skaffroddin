@@ -16,7 +16,7 @@ I'm a **Full Stack Developer** and **Cybersecurity Enthusiast** specializing in 
 ---
 
 ### 🛠️ Technologies & Tools  
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=563D7C" alt="Bootstrap">
@@ -35,6 +35,20 @@ I'm a **Full Stack Developer** and **Cybersecurity Enthusiast** specializing in 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37" alt="Postman">
   <img src="https://img.shields.io/badge/Linux-FFCC00?style=for-the-badge&logo=linux&logoColor=white&labelColor=FFCC00" alt="Linux">
 </div>
+
+### 🌐 Web Hosting & Deployment  
+<div align="center">
+  <img src="https://img.shields.io/badge/cPanel-1D2D50?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel">
+  <img src="https://img.shields.io/badge/Bluehost-003B5C?style=for-the-badge&logo=bluehost&logoColor=white" alt="Bluehost">
+  <img src="https://img.shields.io/badge/HostGator-0A82D1?style=for-the-badge&logo=hostgator&logoColor=white" alt="HostGator">
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
+  <img src="https://img.shields.io/badge/GoDaddy-0075B6?style=for-the-badge&logo=godaddy&logoColor=white" alt="GoDaddy">
+  <img src="https://img.shields.io/badge/Namecheap-FF6600?style=for-the-badge&logo=namecheap&logoColor=white" alt="Namecheap">
+  <img src="https://img.shields.io/badge/SSL%20Certificates-0072C6?style=for-the-badge&logo=ssl&logoColor=white" alt="SSL Certificates">
+  <img src="https://img.shields.io/badge/DNS%20Configurations-FFA500?style=for-the-badge&logo=dns&logoColor=white" alt="DNS Configurations">
+</div>
+
+---
 
 ### 🌐 Web Hosting & Deployment  
 <div>
