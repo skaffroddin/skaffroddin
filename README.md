@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Sekh Affroddin
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0C71E0?style=flat&logo=netlify&logoColor=white)](https://affroddin.netlify.app)  
-[![Email](https://img.shields.io/badge/Email-skaffroddin4@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:skaffroddin4@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0C71E0?style=flat&logo=netlify&logoColor=white)](https://affroddin.netlify.app) 
+[![Email](https://img.shields.io/badge/Email-skaffroddin4@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:skaffroddin4@gmail.com) 
 [![GitHub](https://img.shields.io/badge/GitHub-skaffroddin-181717?style=flat&logo=github&logoColor=white)](https://github.com/skaffroddin?tab=repositories)
 
 ---
