@@ -34,8 +34,15 @@ I'm a **Full Stack Developer** and **Security Engineer** specializing in web app
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) 
 
-#### **Web Hosting & Deployment**
-cPanel, Bluehost, HostGator, DigitalOcean, GoDaddy, Namecheap, SSL Certificates, DNS Configurations
+### 🌐 Web Hosting & Deployment
+![cPanel](https://img.shields.io/badge/cPanel-1D2D50?style=flat-square&logo=cpanel&logoColor=white)
+![Bluehost](https://img.shields.io/badge/Bluehost-003B5C?style=flat-square&logo=bluehost&logoColor=white)
+![HostGator](https://img.shields.io/badge/HostGator-0A82D1?style=flat-square&logo=hostgator&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![GoDaddy](https://img.shields.io/badge/GoDaddy-0075B6?style=flat-square&logo=godaddy&logoColor=white)
+![Namecheap](https://img.shields.io/badge/Namecheap-FF6600?style=flat-square&logo=namecheap&logoColor=white)
+![SSL Certificates](https://img.shields.io/badge/SSL%20Certificates-0072C6?style=flat-square&logo=ssl&logoColor=white)
+![DNS Configurations](https://img.shields.io/badge/DNS%20Configurations-FFA500?style=flat-square&logo=dns&logoColor=white)
 
 
 ---
