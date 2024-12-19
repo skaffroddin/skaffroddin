@@ -49,13 +49,14 @@ My cybersecurity skills focus on both **secure coding practices** and **vulnerab
 - **Security Tools**: Experienced with tools like Burp Suite, SQLmap, Dirbuster, Nmap, Nikto, and Metasploit.
 
 #### **Cybersecurity & Testing**  
-<img src="https://img.shields.io/badge/Burp%20Suite-FF5700?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" width="120" height="30">
+<p>
+    <img src="https://img.shields.io/badge/Burp%20Suite-FF5700?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" width="120" height="30">
 <img src="https://img.shields.io/badge/Nmap-494B8C?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" width="120" height="30">
 <img src="https://img.shields.io/badge/SQLmap-3E8E41?style=for-the-badge&logo=sql&logoColor=white" alt="SQLmap" width="120" height="30">
 <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" width="120" height="30">
 <img src="https://img.shields.io/badge/Dirbuster-EB1C24?style=for-the-badge&logo=dirbuster&logoColor=white" alt="Dirbuster" width="120" height="30">
 <img src="https://img.shields.io/badge/Nikto-22D45A?style=for-the-badge&logo=nikto&logoColor=white" alt="Nikto" width="120" height="30">
-
+</p>
 ---
 
 ### ☕ Support  
