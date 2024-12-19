@@ -15,35 +15,31 @@ I'm a **Full Stack Developer** and **Cybersecurity Enthusiast** specializing in 
 
 ---
 
-### 🛠️ Technologies & Tools  
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML" width="120" height="30">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS" width="120" height="30">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=563D7C" alt="Bootstrap" width="120" height="30">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=06B6D4" alt="Tailwind CSS" width="120" height="30">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E" alt="JavaScript" width="120" height="30">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=0769AD" alt="jQuery" width="120" height="30">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4" alt="PHP" width="120" height="30">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20" alt="Laravel" width="120" height="30">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL" width="120" height="30">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git" width="120" height="30">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" width="120" height="30">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC" alt="VS Code" width="120" height="30">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E" alt="Figma" width="120" height="30">
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=31A8FF" alt="Adobe Photoshop" width="120" height="30">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED" alt="Docker" width="120" height="30">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37" alt="Postman" width="120" height="30">
-<img src="https://img.shields.io/badge/Linux-FFCC00?style=for-the-badge&logo=linux&logoColor=white&labelColor=FFCC00" alt="Linux" width="120" height="30">
-
-### 🌐 Web Hosting & Deployment  
-<img src="https://img.shields.io/badge/cPanel-1D2D50?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" width="120" height="30">
-<img src="https://img.shields.io/badge/Bluehost-003B5C?style=for-the-badge&logo=bluehost&logoColor=white" alt="Bluehost" width="120" height="30">
-<img src="https://img.shields.io/badge/HostGator-0A82D1?style=for-the-badge&logo=hostgator&logoColor=white" alt="HostGator" width="120" height="30">
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" width="120" height="30">
-<img src="https://img.shields.io/badge/GoDaddy-0075B6?style=for-the-badge&logo=godaddy&logoColor=white" alt="GoDaddy" width="120" height="30">
-<img src="https://img.shields.io/badge/Namecheap-FF6600?style=for-the-badge&logo=namecheap&logoColor=white" alt="Namecheap" width="120" height="30">
-<img src="https://img.shields.io/badge/SSL%20Certificates-0072C6?style=for-the-badge&logo=ssl&logoColor=white" alt="SSL Certificates" width="120" height="30">
-<img src="https://img.shields.io/badge/DNS%20Configurations-FFA500?style=for-the-badge&logo=dns&logoColor=white" alt="DNS Configurations" width="120" height="30">
-
+<h3 align="left">Technologies & Tools:</h3>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="50" height="40"/>&nbsp;&nbsp;
+    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="node js" width="63" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://indykoning.nl/wp-content/uploads/2020/03/Livewire.png" alt="livewire" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=alpinejs" alt="Alpine.js" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=gcp" alt="google cloud" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/1200px-Canva_icon_2021.svg.png" alt="canva" width="40" height="40"/>
+</p>
 ---
 
 ### 🔐 Cybersecurity Knowledge  
