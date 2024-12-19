@@ -72,7 +72,10 @@ My cybersecurity skills focus on both **secure coding practices** and **vulnerab
 Here are a few of my top projects:  
 - [**Personal Portfolio**](https://github.com/skaffroddin/portfolio) - A responsive portfolio site built with HTML, CSS, and JavaScript.  
 - [**Laravel eCommerce Platform**](https://github.com/skaffroddin/laravel-ecommerce) - A comprehensive eCommerce platform built with Laravel, showcasing CRUD operations, secure authentication, and more.
-
+<p>
+  <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickypandey14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="github top languages">
+<img align="right" class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=vickypandey14&theme=tokyonight&hide_border=true" alt="github streak">
+</p>
 ---
 
 Thank you for visiting my GitHub profile! 👨‍💻 Let's connect and collaborate!
