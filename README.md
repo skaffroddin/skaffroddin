@@ -34,11 +34,9 @@ I'm a **Full Stack Developer** and **Cybersecurity Enthusiast** specializing in 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=gcp" alt="google cloud" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/1200px-Canva_icon_2021.svg.png" alt="canva" width="40" height="40"/>
 </p>
 ---
 
