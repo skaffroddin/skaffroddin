@@ -73,7 +73,7 @@ My cybersecurity skills focus on both **secure coding practices** and **vulnerab
 ### 🚀 Featured Projects  
 Here are a few of my top projects:  
 - [**Personal Portfolio**](https://github.com/skaffroddin/portfolio) - A responsive portfolio site built with HTML, CSS, and JavaScript.  
-- [**Laravel eCommerce Platform**](https://github.com/skaffroddin/laravel-ecommerce) - A comprehensive eCommerce platform built with Laravel, showcasing CRUD operations, secure authentication, and more.
+- [**ECommerce Platform**](https://github.com/skaffroddin/giftkart) - A comprehensive eCommerce platform built with PHP,MYSQL, showcasing CRUD operations, secure authentication, and more.
 
 ---
 
