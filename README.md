@@ -18,7 +18,6 @@ I'm a **Full Stack Developer** and **Cybersecurity Enthusiast** specializing in 
 <h3 align="left">Technologies & Tools:</h3>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="50" height="40"/>&nbsp;&nbsp;
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>&nbsp;&nbsp;
